@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/sakamoto/develop/jisaku/kunai16/kunai16.sch</source>
+    <date>2019 November 30, Saturday 16:31:04</date>
+    <tool>Eeschema (5.1.4-0-10_14)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>kunai16.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D59A05F</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D59A3FB</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D59B4D5</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D59B4DF</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D59CF2C</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D59D830</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D59D83A</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D59D844</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D59D84E</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D59D858</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5A0358</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5A0362</tstamp>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5A036C</tstamp>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5A0376</tstamp>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5A0380</tstamp>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5A03A8</tstamp>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5A03B2</tstamp>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5AA72D</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>PCA9555PW</value>
+      <footprint>eswai:TSSOP-24_4.4x7.8mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tca9555.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C128392</field>
+      </fields>
+      <libsource lib="Interface_Expansion" part="TCA9555PWR" description="16-bit I/O expander, I2C and SMBus interface, interrupts, w/ pull-ups, TSSOP-24 package"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5DFA16</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>PCA9555PW</value>
+      <footprint>eswai:TSSOP-24_4.4x7.8mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tca9555.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C128392</field>
+      </fields>
+      <libsource lib="Interface_Expansion" part="TCA9555PWR" description="16-bit I/O expander, I2C and SMBus interface, interrupts, w/ pull-ups, TSSOP-24 package"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D5E17E6</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D638522</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D63B09D</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>AudioJack4</value>
+      <footprint>eswai:MJ-4PP-9_v2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack4" description="Audio Jack, 4 Poles (TRRS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6482DC</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>AudioJack4</value>
+      <footprint>eswai:MJ-4PP-9_v2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack4" description="Audio Jack, 4 Poles (TRRS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6494A1</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1MOHM</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C22935</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D651930</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1MOHM</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C22935</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D6528E5</tstamp>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_DIP_x02</value>
+      <footprint>library:DipSwitch</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_DIP_x02" description="2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D64EC0E</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C29936</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D65788F</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C29936</field>
+      </fields>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D658A87</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D7DEF7F</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D7DF9BC</tstamp>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D8184F7</tstamp>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_PUSH</value>
+      <footprint>eswai:CherryMX_Hotswap</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5D818501</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE0C61A</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE0C624</tstamp>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE12210</tstamp>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE1221A</tstamp>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE12224</tstamp>
+    </comp>
+    <comp ref="H8">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE17645</tstamp>
+    </comp>
+    <comp ref="H9">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE1764F</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AudioJack4">
+      <description>Audio Jack, 4 Poles (TRRS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack4</field>
+      </fields>
+      <pins>
+        <pin num="R1" name="~" type="passive"/>
+        <pin num="R2" name="~" type="passive"/>
+        <pin num="S" name="~" type="passive"/>
+        <pin num="T" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Expansion" part="TCA9535PWR">
+      <aliases>
+        <alias>TCA9555PWR</alias>
+      </aliases>
+      <description>16-bit I/O expander, I2C and SMBus interface, interrupts, w/o pull-ups, TSSOP-24 package</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tca9535.pdf</docs>
+      <footprints>
+        <fp>TSSOP*4.4x7.8mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TCA9535PWR</field>
+        <field name="Footprint">Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~INT" type="openCol"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="P00" type="BiDi"/>
+        <pin num="5" name="P01" type="BiDi"/>
+        <pin num="6" name="P02" type="BiDi"/>
+        <pin num="7" name="P03" type="BiDi"/>
+        <pin num="8" name="P04" type="BiDi"/>
+        <pin num="9" name="P05" type="BiDi"/>
+        <pin num="10" name="P06" type="BiDi"/>
+        <pin num="11" name="P07" type="BiDi"/>
+        <pin num="12" name="GND" type="power_in"/>
+        <pin num="13" name="P10" type="BiDi"/>
+        <pin num="14" name="P11" type="BiDi"/>
+        <pin num="15" name="P12" type="BiDi"/>
+        <pin num="16" name="P13" type="BiDi"/>
+        <pin num="17" name="P14" type="BiDi"/>
+        <pin num="18" name="P15" type="BiDi"/>
+        <pin num="19" name="P16" type="BiDi"/>
+        <pin num="20" name="P17" type="BiDi"/>
+        <pin num="21" name="A0" type="input"/>
+        <pin num="22" name="SCL" type="input"/>
+        <pin num="23" name="SDA" type="BiDi"/>
+        <pin num="24" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+      </fields>
+    </libpart>
+    <libpart lib="Switch" part="SW_DIP_x02">
+      <description>2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SW?DIP?x2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DIP_x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kbd" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="CAP">
+      <aliases>
+        <alias>C</alias>
+      </aliases>
+      <description>Capacitor symbol for simulation only</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Library/Application Support/kicad/library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Library/Application Support/kicad/library/Device.lib</uri>
+    </library>
+    <library logical="Interface_Expansion">
+      <uri>/Library/Application Support/kicad/library/Interface_Expansion.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/Library/Application Support/kicad/library/Mechanical.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/Library/Application Support/kicad/library/Switch.lib</uri>
+    </library>
+    <library logical="kbd">
+      <uri>/Users/sakamoto/develop/kicad/kbd-master/library/kbd.lib</uri>
+    </library>
+    <library logical="pspice">
+      <uri>/Library/Application Support/kicad/library/pspice.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="S1">
+      <node ref="SW1" pin="2"/>
+      <node ref="U1" pin="18"/>
+    </net>
+    <net code="2" name="S2">
+      <node ref="U1" pin="6"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="3" name="S3">
+      <node ref="U1" pin="7"/>
+      <node ref="SW3" pin="1"/>
+    </net>
+    <net code="4" name="S4">
+      <node ref="SW4" pin="2"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="5" name="S5">
+      <node ref="SW5" pin="1"/>
+      <node ref="U2" pin="5"/>
+    </net>
+    <net code="6" name="S6">
+      <node ref="U1" pin="17"/>
+      <node ref="SW6" pin="2"/>
+    </net>
+    <net code="7" name="S7">
+      <node ref="SW7" pin="1"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="8" name="S8">
+      <node ref="U1" pin="9"/>
+      <node ref="SW8" pin="2"/>
+    </net>
+    <net code="9" name="S9">
+      <node ref="U2" pin="10"/>
+      <node ref="SW9" pin="1"/>
+    </net>
+    <net code="10" name="S10">
+      <node ref="SW10" pin="1"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="11" name="S11">
+      <node ref="U1" pin="16"/>
+      <node ref="SW11" pin="2"/>
+    </net>
+    <net code="12" name="S12">
+      <node ref="U1" pin="14"/>
+      <node ref="SW12" pin="1"/>
+    </net>
+    <net code="13" name="S13">
+      <node ref="U1" pin="10"/>
+      <node ref="SW13" pin="1"/>
+    </net>
+    <net code="14" name="S14">
+      <node ref="SW14" pin="2"/>
+      <node ref="U2" pin="9"/>
+    </net>
+    <net code="15" name="S15">
+      <node ref="SW15" pin="1"/>
+      <node ref="U2" pin="7"/>
+    </net>
+    <net code="16" name="S18">
+      <node ref="SW18" pin="1"/>
+      <node ref="U1" pin="8"/>
+    </net>
+    <net code="17" name="S19">
+      <node ref="U2" pin="11"/>
+      <node ref="SW19" pin="1"/>
+    </net>
+    <net code="18" name="S20">
+      <node ref="U2" pin="8"/>
+      <node ref="SW20" pin="1"/>
+    </net>
+    <net code="19" name="Net-(U2-Pad1)">
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="20" name="GND">
+      <node ref="SW6" pin="1"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="SW7" pin="2"/>
+      <node ref="SW8" pin="1"/>
+      <node ref="U1" pin="21"/>
+      <node ref="SW9" pin="2"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="SW10" pin="2"/>
+      <node ref="SW11" pin="1"/>
+      <node ref="SW12" pin="2"/>
+      <node ref="SW13" pin="2"/>
+      <node ref="SW14" pin="1"/>
+      <node ref="SW15" pin="2"/>
+      <node ref="SW18" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="SW19" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="SW20" pin="2"/>
+      <node ref="U2" pin="12"/>
+      <node ref="U1" pin="12"/>
+      <node ref="SW5" pin="2"/>
+      <node ref="SW4" pin="1"/>
+      <node ref="SW3" pin="2"/>
+      <node ref="J2" pin="S"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="J1" pin="S"/>
+      <node ref="SW21" pin="4"/>
+      <node ref="SW21" pin="3"/>
+      <node ref="SW16" pin="1"/>
+      <node ref="SW17" pin="2"/>
+    </net>
+    <net code="21" name="Net-(U2-Pad13)">
+      <node ref="U2" pin="13"/>
+    </net>
+    <net code="22" name="Net-(U2-Pad14)">
+      <node ref="U2" pin="14"/>
+    </net>
+    <net code="23" name="Net-(U2-Pad15)">
+      <node ref="U2" pin="15"/>
+    </net>
+    <net code="24" name="Net-(U2-Pad16)">
+      <node ref="U2" pin="16"/>
+    </net>
+    <net code="25" name="Net-(U2-Pad17)">
+      <node ref="U2" pin="17"/>
+    </net>
+    <net code="26" name="Net-(U2-Pad18)">
+      <node ref="U2" pin="18"/>
+    </net>
+    <net code="27" name="Net-(U2-Pad19)">
+      <node ref="U2" pin="19"/>
+    </net>
+    <net code="28" name="Net-(U2-Pad20)">
+      <node ref="U2" pin="20"/>
+    </net>
+    <net code="29" name="Net-(U1-Pad1)">
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="30" name="S17">
+      <node ref="SW17" pin="1"/>
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="31" name="S16">
+      <node ref="SW16" pin="2"/>
+      <node ref="U1" pin="15"/>
+    </net>
+    <net code="32" name="Net-(U1-Pad19)">
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="33" name="Net-(U1-Pad20)">
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="34" name="Net-(U1-Pad4)">
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="35" name="Net-(U1-Pad5)">
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="36" name="VCC">
+      <node ref="U1" pin="24"/>
+      <node ref="R1" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="J2" pin="T"/>
+      <node ref="U2" pin="24"/>
+      <node ref="U2" pin="21"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="J1" pin="T"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="37" name="SCL">
+      <node ref="J1" pin="R1"/>
+      <node ref="U2" pin="22"/>
+      <node ref="J2" pin="R1"/>
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="38" name="SDA">
+      <node ref="U1" pin="23"/>
+      <node ref="U2" pin="23"/>
+      <node ref="J1" pin="R2"/>
+      <node ref="J2" pin="R2"/>
+    </net>
+    <net code="39" name="A1">
+      <node ref="SW21" pin="1"/>
+      <node ref="U2" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="40" name="A2">
+      <node ref="U2" pin="3"/>
+      <node ref="SW21" pin="2"/>
+      <node ref="R2" pin="1"/>
+      <node ref="U1" pin="3"/>
+    </net>
+  </nets>
+</export>

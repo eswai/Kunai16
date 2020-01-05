@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC part number
+100nF,"C2,C1",0603,C14663
+1uF,"C4,C3",0603,C29936
+PCA9555PW,"U2,U1",TSSOP-24_4.4x7.8mm_P0.65mm,C128392
